@@ -1,2 +1,4 @@
-package com.example.oauthjwt.master;public class dev1 {
+package com.example.oauthjwt.master;
+
+public class dev1 {
 }
