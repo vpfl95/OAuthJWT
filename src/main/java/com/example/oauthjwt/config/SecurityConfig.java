@@ -22,6 +22,7 @@ import java.util.Collections;
 
 @Configuration
 @EnableWebSecurity
+
 //@RequiredArgsConstructor
 public class SecurityConfig {
 

@@ -10,6 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Date;
 
 @Component
+
 public class JWTUtil {
 
     private SecretKey secretKey;

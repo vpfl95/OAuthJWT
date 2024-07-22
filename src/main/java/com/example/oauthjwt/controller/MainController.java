@@ -7,11 +7,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MainController {
 
-    @GetMapping("/")
-    @ResponseBody
+    @GetMapping("/login")
+    //@ResponseBody
     public String mainAPI(){
 
-        return "main route";
+        return "index";
     }
 
 
